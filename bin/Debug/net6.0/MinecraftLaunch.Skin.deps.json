@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MinecraftLaunch.Skin/1.0.0": {
+        "dependencies": {
+          "Flurl.Http": "4.0.0-pre3",
+          "SixLabors.ImageSharp": "3.0.1"
+        },
+        "runtime": {
+          "MinecraftLaunch.Skin.dll": {}
+        }
+      },
+      "Flurl/3.0.7": {
+        "runtime": {
+          "lib/netstandard2.0/Flurl.dll": {
+            "assemblyVersion": "3.0.7.0",
+            "fileVersion": "3.0.7.0"
+          }
+        }
+      },
+      "Flurl.Http/4.0.0-pre3": {
+        "dependencies": {
+          "Flurl": "3.0.7"
+        },
+        "runtime": {
+          "lib/net6.0/Flurl.Http.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp/3.0.1": {
+        "runtime": {
+          "lib/net6.0/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinecraftLaunch.Skin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flurl/3.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W3zHc8m6/yqOAedHwpFQv5VT8t0W/jkS3AVlv1Tj520KDNjUa31at0zMc3XYJy8f9qdOmUcvSUarf6G2nK1ZIg==",
+      "path": "flurl/3.0.7",
+      "hashPath": "flurl.3.0.7.nupkg.sha512"
+    },
+    "Flurl.Http/4.0.0-pre3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2N01ftKNnl5dhPvEYITn+DhrPrpxL+i/725aBOJkLHAT3LdKliwnybJKDqUDVR8CbLgBf6IcfhYnaLU7fTq0dw==",
+      "path": "flurl.http/4.0.0-pre3",
+      "hashPath": "flurl.http.4.0.0-pre3.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o0v/J6SJwp3RFrzR29beGx0cK7xcMRgOyIuw8ZNLQyNnBhiyL/vIQKn7cfycthcWUPG3XezUjFwBWzkcUUDFbg==",
+      "path": "sixlabors.imagesharp/3.0.1",
+      "hashPath": "sixlabors.imagesharp.3.0.1.nupkg.sha512"
+    }
+  }
+}

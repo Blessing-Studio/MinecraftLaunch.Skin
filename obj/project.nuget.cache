@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9VITc+MSNHi7K7cHl4Wwrf9ujTPpLaqKPFZrKQBJbKVrh3T+Eqq3mic9yhE8TpFPXK9yTp/KJ6Y6roJhrMfbFw==",
+  "dgSpecHash": "/Ms1KCEYxtw5N+VIO6Wsx+hqr1EAJVYufvzqCxvKV56VA66D+5FkH7BbNLbj/Dwll685Muw1TbhhZBMFAwp23g==",
   "success": true,
   "projectFilePath": "D:\\Workspace\\ICode\\C#\\MinecraftLaunch.Skin\\MinecraftLaunch.Skin.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\w\\.nuget\\packages\\flurl\\3.0.7\\flurl.3.0.7.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\flurl.http\\4.0.0-pre3\\flurl.http.4.0.0-pre3.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
