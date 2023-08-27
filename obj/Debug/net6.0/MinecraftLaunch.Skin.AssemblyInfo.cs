@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MinecraftLaunch.Skin")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Xilu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("MinecraftLaunch的皮肤操作扩展")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinecraftLaunch.Skin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinecraftLaunch.Skin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Blessing-Studio/MinecraftLaunch.Skin")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 
