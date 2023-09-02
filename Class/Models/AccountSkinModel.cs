@@ -6,7 +6,7 @@ using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace MinecraftLaunch.Skin.Class.Models {
-    public class AccountSkinModel {
+    public record AccountSkinModel {
         [JsonPropertyName("id")]
         public string Id { get; set; }
 

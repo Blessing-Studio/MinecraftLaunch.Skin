@@ -6,7 +6,7 @@ using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace MinecraftLaunch.Skin.Class.Models {
-    public class SkinMoreInfo {
+    public record SkinMoreInfo {
         [JsonPropertyName("timestamp")]
         public long TimeStamp { get; set; }
 

@@ -6,7 +6,7 @@ using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace MinecraftLaunch.Skin.Class.Models {
-    public class CAPE {
+    public record CAPE {
         [JsonPropertyName("url")]
         public string Url { get; set; }
     }

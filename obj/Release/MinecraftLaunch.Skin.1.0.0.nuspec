@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MinecraftLaunch.Skin</id>
+    <version>1.0.0</version>
+    <title>MinecraftLaunch.Skin</title>
+    <authors>Xilu</authors>
+    <icon>icon.png</icon>
+    <projectUrl>https://github.com/Blessing-Studio/MinecraftLaunch.Skin</projectUrl>
+    <description>MinecraftLaunch的皮肤操作扩展</description>
+    <repository url="https://github.com/Blessing-Studio/MinecraftLaunch.Skin" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Flurl.Http" version="4.0.0-pre3" exclude="Build,Analyzers" />
+        <dependency id="SixLabors.ImageSharp" version="3.0.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net7.0">
+        <dependency id="Flurl.Http" version="4.0.0-pre3" exclude="Build,Analyzers" />
+        <dependency id="SixLabors.ImageSharp" version="3.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Workspace\ICode\C#\MinecraftLaunch.Skin\bin\Release\net6.0\MinecraftLaunch.Skin.dll" target="lib\net6.0\MinecraftLaunch.Skin.dll" />
+    <file src="D:\Workspace\ICode\C#\MinecraftLaunch.Skin\bin\Release\net7.0\MinecraftLaunch.Skin.dll" target="lib\net7.0\MinecraftLaunch.Skin.dll" />
+    <file src="C:\Users\w\Desktop\总整包\素材库\图片素材\杂项\icon.png" target="\icon.png" />
+  </files>
+</package>

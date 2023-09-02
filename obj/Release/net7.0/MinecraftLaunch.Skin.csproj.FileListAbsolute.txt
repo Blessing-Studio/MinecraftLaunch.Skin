@@ -1,0 +1,12 @@
+D:\Workspace\ICode\C#\MinecraftLaunch.Skin\bin\Release\net7.0\MinecraftLaunch.Skin.deps.json
+D:\Workspace\ICode\C#\MinecraftLaunch.Skin\bin\Release\net7.0\MinecraftLaunch.Skin.dll
+D:\Workspace\ICode\C#\MinecraftLaunch.Skin\bin\Release\net7.0\MinecraftLaunch.Skin.pdb
+D:\Workspace\ICode\C#\MinecraftLaunch.Skin\obj\Release\net7.0\MinecraftLaunch.Skin.csproj.AssemblyReference.cache
+D:\Workspace\ICode\C#\MinecraftLaunch.Skin\obj\Release\net7.0\MinecraftLaunch.Skin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\ICode\C#\MinecraftLaunch.Skin\obj\Release\net7.0\MinecraftLaunch.Skin.AssemblyInfoInputs.cache
+D:\Workspace\ICode\C#\MinecraftLaunch.Skin\obj\Release\net7.0\MinecraftLaunch.Skin.AssemblyInfo.cs
+D:\Workspace\ICode\C#\MinecraftLaunch.Skin\obj\Release\net7.0\MinecraftLaunch.Skin.csproj.CoreCompileInputs.cache
+D:\Workspace\ICode\C#\MinecraftLaunch.Skin\obj\Release\net7.0\MinecraftLaunch.Skin.dll
+D:\Workspace\ICode\C#\MinecraftLaunch.Skin\obj\Release\net7.0\refint\MinecraftLaunch.Skin.dll
+D:\Workspace\ICode\C#\MinecraftLaunch.Skin\obj\Release\net7.0\MinecraftLaunch.Skin.pdb
+D:\Workspace\ICode\C#\MinecraftLaunch.Skin\obj\Release\net7.0\ref\MinecraftLaunch.Skin.dll

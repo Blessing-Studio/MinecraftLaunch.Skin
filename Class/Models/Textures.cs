@@ -6,7 +6,7 @@ using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace MinecraftLaunch.Skin.Class.Models {
-    public class Textures {
+    public record Textures {
         [JsonPropertyName("SKIN")]
         public SKIN Skin { get; set; }
 
